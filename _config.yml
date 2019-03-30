@@ -2,7 +2,7 @@
 title: Willian Justen - Desenvolvedor Front End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "/headMelted" # the subpath of your site, e.g. /blog
-url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://gribja.github.io" # base url
 
 # User settings
 username: Lorem Ipsum
